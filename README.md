@@ -11,7 +11,7 @@ A node app that uses the popular node framework Express.js and utilizes layered 
 - Service
 - Repo
 
-Utilizing this standard, a well-built REST API is achieved that improves code organization, reusable components, scalable applications, better code debugging and improves the code quality making it more developer friendly.
+Utilizing this standard, a well-built REST API is achieved that improves code organization, reusable components, scalable application, and better code debugging. Thus improves overall code quality and making it more developer friendly.
 
 
 
